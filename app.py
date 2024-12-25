@@ -10,7 +10,7 @@ def home():
 	     A('A link', href='https://example.com'), 
              Img(src="https://placehold.co/200"), cls='myclass')
              ),
-        Div(A("2024336408", href="https://beian.miit.gov.cn/", target="_blank"))
+        Div(A("粤ICP备2024336408号", href="https://beian.miit.gov.cn/", target="_blank"))
         )
     return page
 
